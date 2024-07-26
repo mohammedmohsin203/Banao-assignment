@@ -7,3 +7,4 @@ export const config = {
 };
 
 // Here my first commit
+// My second try to become a learning in github
